@@ -2,7 +2,7 @@ package com.iplacex.practicadesarrollologica;
 import java.util.Scanner;
 /**
  *
- * @author PatoCode Robinson Concha
+ * @author Robinson Concha
  * 
  * realizar series numéricas utilizando for , while, do while:
  * 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
@@ -103,8 +103,6 @@ public class PracticaDos {
     System.out.println("");
     System.out.println("*************************************************");
     System.out.println("*************************************************");
-    
-    //Sucesión Fibonacci ultima serie numérica
     
     
     
